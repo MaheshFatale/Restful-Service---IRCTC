@@ -1,7 +1,7 @@
-package in.ashokit.service;
+package in.mahesh.service;
 
-import in.ashokit.request.Passenger;
-import in.ashokit.response.Ticket;
+import in.mahesh.request.Passenger;
+import in.mahesh.response.Ticket;
 
 public interface BookingService {
 

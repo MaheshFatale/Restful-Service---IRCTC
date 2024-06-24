@@ -1,4 +1,4 @@
-package in.ashokit.service;
+package in.mahesh.service;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -6,8 +6,8 @@ import java.util.Map;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 
-import in.ashokit.request.Passenger;
-import in.ashokit.response.Ticket;
+import in.mahesh.request.Passenger;
+import in.mahesh.response.Ticket;
 
 
 @Service

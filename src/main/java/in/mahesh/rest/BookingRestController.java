@@ -1,4 +1,4 @@
-package in.ashokit.rest;
+package in.mahesh.rest;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import in.ashokit.request.Passenger;
-import in.ashokit.response.Ticket;
-import in.ashokit.service.BookingService;
+import in.mahesh.request.Passenger;
+import in.mahesh.response.Ticket;
+import in.mahesh.service.BookingService;
 
 @RestController
 public class BookingRestController {
